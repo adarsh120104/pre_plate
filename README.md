@@ -1,10 +1,10 @@
 # pre_plate
-App Name: PrePlate
+# App Name: PrePlate
 
-Overview:
+# Overview:
 PrePlate is an innovative app designed to streamline meal planning and reduce food wastage in hostels. By allowing residents to pre-book their meals, the app ensures accurate meal preparation, leading to cost savings and a more sustainable approach to food management.
 
-Features:
+# Features:
 
 1. Meal Pre-Booking:
  - Users can view the weekly menu and pre-book their meals in advance.
@@ -29,13 +29,13 @@ Features:
  - Intuitive and easy-to-navigate interface for a hassle-free booking experience.
  - Accessible on mobile platforms.
 
-Benefits:
-- For Hostel Management:
+# Benefits:
+# For Hostel Management:
  - Reduced food wastage and associated costs.
  - Improved meal planning and inventory management.
  - Enhanced ability to cater to resident preferences and dietary needs.
 
-- For Residents:
+# For Residents:
  - Convenience of pre-booking meals and avoiding long queues.
  - Assurance of meal availability and quality.
  - Contribution to sustainability efforts by reducing food wastage.
